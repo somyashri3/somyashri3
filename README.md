@@ -1,4 +1,4 @@
-<img align="left" src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="140" height="140" />
+<img align="left" src="ghhi.gif" width="140" height="140" />
 <br>
 <h1 align="left"> I'm Soumya Shrivastava</h1>
 <!-- <h4 align="left">I like learning and experimenting with new technologies, building small projects and occasionally tinkering with Robotics.<br><br></h4> -->
