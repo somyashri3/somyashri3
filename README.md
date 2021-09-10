@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Hackathons,open source,Web development projects**
 
-- 💬 Ask me about **any tech stuff of mine or your choice!!**
+- 💬 Ask me about **any tech stuff of mine or yours choice!!**
 
 - 📫 How to reach me **somyashri3@gmail.com**
 
