@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Soumya Shrivastava</h1>
-<h3 align="center">A passionate developer from India</h3>
+<img align="left" src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="140" height="140" />
+<br>
+<h1 align="left"> I'm Soumya Shrivastava</h1>
+<!-- <h4 align="left">I like learning and experimenting with new technologies, building small projects and occasionally tinkering with Robotics.<br><br></h4> -->
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somyashri3&label=Profile%20views&color=0e75b6&style=flat" alt="somyashri3" /> </p>
+- ⚡ I like learning and experimenting with new technologies, building small projects and occasionally tinkering with Robotics**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somyashri3" alt="somyashri3" /></a> </p>
+- 👯 I’m looking to collaborate on **Hackathons,open source,Web development projects**
+
+- 💬 Ask me about **any tech stuff of mine or your choice!!**
 
 - 📫 How to reach me **somyashri3@gmail.com**
 
